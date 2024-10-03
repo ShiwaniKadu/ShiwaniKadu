@@ -21,10 +21,6 @@ I'm a passionate full stack developer with experience in Python, Django, JavaScr
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Shiwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShiwaniKadu&show_icons=true&theme=radical)
-
 ## 🏆 Achievements
 
 - **NCC Certificate Holder** 🏅
