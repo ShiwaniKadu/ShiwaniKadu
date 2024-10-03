@@ -6,9 +6,9 @@ I'm a passionate full stack developer with experience in Python, Django, JavaScr
 
 - 🌱 I’m currently learning **Machine Learning** and **AI Integration**.
 - 💼 I’m open to full-time Python/Full Stack Developer roles.
-- 🔭 I’m currently working on **[Virtual Assistant Project](https://github.com/ShiwaniKadu)**.
+- 🔭 I’m currently working on **[e-Commerece](https://github.com/ShiwaniKadu)**.
 - 💬 Ask me about backend development, Python, AWS, and scalable solutions.
-- 📫 Reach me at **email@example.com**.
+- 📫 Reach me at **shivanikadu99@gmail.com**.
 - ⚡ Fun fact: I started my journey by creating 2D games!
 
 ## 🛠️ Technologies & Tools
