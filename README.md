@@ -101,7 +101,6 @@ An automated pipeline for extracting data from web sources and converting unstru
 
 ## 🏆 Achievements
 
-* 🏅 NCC Certificate Holder
 * 🚀 2+ years of professional experience with Python
 * 🔄 Experience building web data extraction and automation workflows
 * 🗄️ Experience working with databases and SQL
